@@ -17,3 +17,4 @@ C. ```if (length! = 75) { // Some block of code to execute }```THIS CHECKS IF IT
 
 D. ```if (length == "75") { // Some block of code to execute }```DON'T THINK THE QOUTES ARE NEEDED?
 
+<!-- Not correct. It's B and D -->
